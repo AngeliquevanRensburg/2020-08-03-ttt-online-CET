@@ -1,10 +1,10 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
-country: "Online"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
-language: "English"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
+country: ""      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
+language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 humandate: "August 3-4, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00am - 17:00pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "9:00 am - 17:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: August 3, 2020      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: August 4, 2020        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Malvika Sharan", "Angelique van Rensburg"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
@@ -14,11 +14,8 @@ etherpad:  https://pad.carpentries.org/2020-08-03-ttt-online-CET           # opt
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
-    address: "https://carpentries.zoom.us/j/FIXME"
+    address: "https://carpentries.zoom.us/j/carpentriesroom1"
 
-  - venue: "The Carpentries Instructor Training"
-    address: #"Online"
-    latlng: "41.7901128,-87.6007318"
 
 ---
 
