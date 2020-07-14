@@ -17,7 +17,7 @@ locations:
     address: "https://carpentries.zoom.us/j/FIXME"
 
   - venue: "The Carpentries Instructor Training"
-    address: "Online"
+    address: #"Online"
     latlng: "41.7901128,-87.6007318"
 
 ---
